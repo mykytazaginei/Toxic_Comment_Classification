@@ -1,0 +1,2 @@
+Enter Comment Text Here,Toxicity Probabilities,timestamp
+you are a wonderful and kind person,"{""label"": ""toxic"", ""confidences"": [{""label"": ""toxic"", ""confidence"": 0.19410377740859985}, {""label"": ""insult"", ""confidence"": 0.0721997544169426}, {""label"": ""obscene"", ""confidence"": 0.05124751478433609}, {""label"": ""identity_hate"", ""confidence"": 0.02069339156150818}, {""label"": ""severe_toxic"", ""confidence"": 0.016498679295182228}, {""label"": ""threat"", ""confidence"": 0.0058705564588308334}]}",2025-05-25 18:38:51.838882
